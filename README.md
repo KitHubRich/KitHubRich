@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitHubRich
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning how to use GitHub
+- 🌱 I’m currently learning how to use GitHub and Playwright with Typescript
 - 💞️ I’m looking to collaborate on Testing
 - 📫 How to reach me...
 
