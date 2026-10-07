@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KitHubRich
-- 👀 I’m interested in Testing
+- 👀 I’m interested in Testing, Tennis, Cinema
 - 🌱 I’m currently learning how to use GitHub and Playwright with Typescript
 - 💞️ I’m looking to collaborate on Testing
 - 📫 How to reach me...
