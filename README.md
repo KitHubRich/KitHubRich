@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @KitHubRich
-- 👀 I’m interested in Testing, Tennis, Cinema
-- 🌱 I’m currently learning how to use GitHub and Playwright with Typescript
-- 💞️ I’m looking to collaborate on Testing
-- 📫 How to reach me: www.linkedin.com/in/richard-smith-0612055b
+👋 Hi, I’m Richard
+  
+👀 I’m interested in Software Testing, Tennis and Cinema
+  
+🌱 I’m currently learning Playwright and Typescript for API & UI Automation Testing
+  
+💞️ Building and maintaining RichPlaywrightDemo, a Playwright automation framework featuring:
+- UI Testing, API Testing
+- Hybrid API/UI Validation
+- GitHubActions CI/CD
+- Data Driven Regression suites
+- Reusable service layer and category-driven test framework.
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/richard-smith-0612055b
 
 <!---
 KitHubRich/KitHubRich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
