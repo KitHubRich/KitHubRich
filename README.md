@@ -2,7 +2,7 @@
 - 👀 I’m interested in Testing, Tennis, Cinema
 - 🌱 I’m currently learning how to use GitHub and Playwright with Typescript
 - 💞️ I’m looking to collaborate on Testing
-- 📫 How to reach me...
+- 📫 How to reach me: www.linkedin.com/in/richard-smith-0612055b
 
 <!---
 KitHubRich/KitHubRich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
