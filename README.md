@@ -8,8 +8,8 @@
 - UI Testing, API Testing
 - Hybrid API/UI Validation
 - GitHubActions CI/CD
-- Data Driven Regression suites
-- Reusable service layer and category-driven test framework.
+- Data-Driven Regression suites
+- Reusable service layer and Category-Driven test framework.
 
 📫 Connect with me on LinkedIn: www.linkedin.com/in/richard-smith-0612055b
 
