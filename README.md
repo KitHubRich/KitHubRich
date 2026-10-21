@@ -2,14 +2,18 @@
   
 👀 I’m interested in Software Testing, Tennis and Cinema
   
-🌱 I’m currently learning Playwright and Typescript for API & UI Automation Testing
+🌱 Developing advanced Playwright and TypeScript automation skills, focusing on framework architecture, CI/CD, reporting and scalable test design.
   
-💞️ Building and maintaining RichPlaywrightDemo, a Playwright automation framework featuring:
-- UI Testing, API Testing
-- Hybrid API/UI Validation
-- GitHubActions CI/CD
-- Data-Driven Regression suites
-- Reusable service layer and Category-Driven test framework.
+💎 Building and maintaining RichPlaywrightDemo, a scalable Playwright + TypeScript test automation framework featuring:
+- UI, API and Hybrid Testing
+- Reusable Page Object Models
+- Custom Fixtures and Service Layers
+- Data-Driven Test Architecture
+- Smoke and Regression Test Pipelines
+- GitHub Actions CI/CD
+- Allure Reporting and Test Analytics
+- Automated Trace, Screenshot and Video Evidence Collection
+- Maintainable Framework Design following Testing Best Practices
 
 📫 Connect with me on LinkedIn: www.linkedin.com/in/richard-smith-0612055b
 
